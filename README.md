@@ -40,19 +40,22 @@ A data visualization dashboard built with Streamlit for analyzing report metrics
 # Create and activate virtual environment (Windows)
 python -m venv venv
 .\venv\Scripts\activate
-
+```
+```bash
 # Install all required packages
 pip install streamlit pandas numpy matplotlib seaborn
-
+```
+```bash
 # Alternative: Install from requirements.txt
 pip install -r requirements.txt
-
+```
+```bash
 # Clone the repository
 git clone https://github.com/PavanKhamitkar/Streamlit_analysis.git
-
+```
+```bash
 # Navigate to project directory
 cd Streamlit_analysis
-
 ```
 
 ## 📝 Requirements
