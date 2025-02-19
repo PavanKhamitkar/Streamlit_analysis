@@ -34,8 +34,6 @@ A data visualization dashboard built with Streamlit for analyzing report metrics
 
 ## 🛠️ Installation
 
-## 🛠️ Installation
-
 ```bash
 # Create and activate virtual environment (Windows)
 python -m venv venv
